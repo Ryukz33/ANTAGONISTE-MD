@@ -2,7 +2,7 @@
 𝐀𝐍𝐓𝐀𝐆𝐎𝐍𝐈𝐒𝐓𝐄-𝐌𝐃
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+𝘈𝘕𝘛𝘈𝘎𝘖𝘕𝘐𝘚𝘛𝘌;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+ANTAGONISTE-TECH;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
