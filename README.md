@@ -19,7 +19,7 @@ _-
 <p align="center"><strong>⚡ VERSION 1.0</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Antagonist-tech/ANTAGONISTE-MD" target="_blank">
+  <a href="https://github.com/dawens8/MINI-JESUS-CRASH" target="_blank">
     <img 
       src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
