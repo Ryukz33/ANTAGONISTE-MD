@@ -1,7 +1,7 @@
 {
   "name": "ANTAGONISTE-MD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By  𝘈𝘕𝘛𝘈𝘎𝘖𝘕𝘐𝘚𝘛𝘌 𝘵𝘦𝘤𝘩",
+  "description": "A WhatsApp Bot Created By 𝘈𝘕𝘛𝘈𝘎𝘖𝘕𝘐𝘚𝘛𝘌 𝘵𝘦𝘤𝘩",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ANTAGONISTE-MD",
@@ -53,6 +53,7 @@
     "ytdl-core": "^4.11.1",
     "puppeteer": "^22.7.0",
     "dotenv": "^16.4.5",
-    "openai": "^4.38.0"
+    "openai": "^4.38.0",
+    "sqlite3": "^5.1.7"
   }
 }
